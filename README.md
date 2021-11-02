@@ -1,5 +1,5 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/bluntly_talha?style=plastic)](https://twitter.com/bluntly_talha)
-[![Github Badge](https://img.shields.io/github/stars/jbtalhakhan?affiliations=OWNER)
+![Github Badge](https://img.shields.io/github/stars/jbtalhakhan?affiliations=OWNER)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jbtalhakhan&color=00df00)
 
 ### Hi there 👋
