@@ -1,5 +1,5 @@
-[![Twitter Badge](https://img.shields.io/badge/-bluntly_talha?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bluntly_talha)](https://twitter.com/bluntly_talha) 
-[![Linkedin Badge](https://img.shields.io/badge/-bluntly_talha?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bluntly_talha/)](https://www.linkedin.com/in/bluntly_talha/) 
+[![Twitter Badge](https://img.shields.io/badge/bluntly_talha?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bluntly_talha)](https://twitter.com/bluntly_talha) 
+[![Linkedin Badge](https://img.shields.io/badge/bluntly_talha?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bluntly_talha/)](https://www.linkedin.com/in/bluntly_talha/) 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jbtalhakhan&color=00df00)
 
 ### Hi there 👋
