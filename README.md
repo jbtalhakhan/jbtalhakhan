@@ -1,4 +1,4 @@
-[![Twitter Badge](https://img.shields.io/twitter/follow/jbtalhakhan?label=Follow)](https://twitter.com/bluntly_talha) 
+[![Twitter Badge](https://img.shields.io/twitter/follow/bluntly_talha?label=bluntly_talha)](https://twitter.com/bluntly_talha) 
 [![Linkedin Badge](https://img.shields.io/badge/bluntly_talha?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bluntly_talha/)](https://www.linkedin.com/in/bluntly_talha/) 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jbtalhakhan&color=00df00)
 
