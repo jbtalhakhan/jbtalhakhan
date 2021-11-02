@@ -1,5 +1,6 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/bluntly_talha?label=bluntly_talha)](https://twitter.com/bluntly_talha) 
-[![Linkedin Badge](https://img.shields.io/linkedin/bluntly_talha?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bluntly_talha/)](https://www.linkedin.com/in/bluntly_talha/) 
+[![Linkedin Badge](https://img.shields.io/linkedin/follow/bluntly_talha)](https://www.linkedin.com/in/bluntly_talha/)
+[![Github Badge]](https://img.shields.io/github/followers/jbtalhakhan?label=Follow)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jbtalhakhan&color=00df00)
 
 ### Hi there 👋
